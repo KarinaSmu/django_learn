@@ -1,0 +1,15 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 241
+"GET /about/ HTTP/1.1" 200 251
+E:\University\django\project_01\homework\homework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 251
+E:\University\django\project_01\homework\homework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 241
+Not Found: /docs
+"GET /docs HTTP/1.1" 404 2419
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 251
+Not Found: /a
+"GET /a HTTP/1.1" 404 2410
