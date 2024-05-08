@@ -13,3 +13,8 @@ Not Found: /docs
 "GET /about/ HTTP/1.1" 200 251
 Not Found: /a
 "GET /a HTTP/1.1" 404 2410
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 241
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+Watching for file changes with StatReloader
