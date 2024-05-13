@@ -1,0 +1,25 @@
+{% extends 'shopapp/base.html' %}
+
+{% block title %}Список клиентов{% endblock %}
+
+{% block content %}
+<h1>Наши клиенты</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Имя</th>
+            <th>Email</th>
+            <th>Телефон</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for client in clients %}
+        <tr>
+            <td>{{ client.name }}</td>
+            <td>{{ client.email }}</td>
+            <td>{{ client.phone }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
