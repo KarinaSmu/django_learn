@@ -4333,3 +4333,1042 @@ Watching for file changes with StatReloader
 "GET /shop/ HTTP/1.1" 200 664
 "GET /shop/clients/ HTTP/1.1" 200 2616
 "GET /shop/orders/7/year/ HTTP/1.1" 200 265
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /static/css/styles.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2778
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Not Found: /product_add
+"GET /product_add HTTP/1.1" 404 2778
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/doc
+"GET /product_add/doc HTTP/1.1" 404 2790
+Not Found: /product_add
+"GET /product_add HTTP/1.1" 404 2778
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /static/css/styles.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2778
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Not Found: /product_add
+"GET /product_add HTTP/1.1" 404 2778
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+E:\University\django\project_01\homework\homework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+Not Found: /product_add/
+"GET /product_add/ HTTP/1.1" 404 2781
+E:\University\django\project_01\homework\shopapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 298
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+E:\University\django\project_01\homework\shopapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+E:\University\django\project_01\homework\homework\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Watching for file changes with StatReloader
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Watching for file changes with StatReloader
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+E:\University\django\project_01\homework\homework\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Not Found: /product_form/
+"GET /product_form/ HTTP/1.1" 404 2784
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84390
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84527
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84527
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84527
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84527
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84527
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84527
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 76, in product_form
+    return render(request, 'shoppapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: shoppapp/product_form.html
+"GET /shop/product_form/ HTTP/1.1" 500 84390
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /shop/product_form/ HTTP/1.1" 200 1760
+"POST /shop/product_form/ HTTP/1.1" 200 1906
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100612
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100612
+Watching for file changes with StatReloader
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100612
+"GET /shop/ HTTP/1.1" 200 664
+"GET /shop/product_form/ HTTP/1.1" 200 1760
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100638
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /static/css/styles.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2778
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Not Found: /product_form
+"GET /product_form HTTP/1.1" 404 2781
+"GET /shop/product_form HTTP/1.1" 301 0
+"GET /shop/product_form/ HTTP/1.1" 200 1760
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100592
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 58, in product_form
+    image = form.cleaned_data['image']
+KeyError: 'image'
+"POST /shop/product_form/ HTTP/1.1" 500 71687
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/ HTTP/1.1" 200 664
+"GET /shop/product_form HTTP/1.1" 301 0
+"GET /shop/product_form/ HTTP/1.1" 200 1589
+E:\University\django\project_01\homework\shopapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/ HTTP/1.1" 200 664
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 78, in product_form
+    return render(request, 'shopapp/product_form.html', {'form': form, 'message': message})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+  File "E:\University\django\project_01\venv\lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\forms\utils.py", line 67, in render
+    context = context or self.get_context()
+  File "E:\University\django\project_01\venv\lib\site-packages\django\forms\forms.py", line 325, in get_context
+    if bf.is_hidden:
+  File "E:\University\django\project_01\venv\lib\site-packages\django\forms\boundfield.py", line 235, in is_hidden
+    return self.field.widget.is_hidden
+AttributeError: 'ImageField' object has no attribute 'is_hidden'
+"GET /shop/product_form/ HTTP/1.1" 500 180819
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/ HTTP/1.1" 200 664
+"GET /shop/product_form/ HTTP/1.1" 200 1760
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100673
+E:\University\django\project_01\homework\shopapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/ HTTP/1.1" 200 664
+"GET /shop/product_form/ HTTP/1.1" 200 1760
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100593
+E:\University\django\project_01\homework\shopapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/product_form/ HTTP/1.1" 200 1760
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100328
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2778
+"GET /shop/ HTTP/1.1" 200 664
+"GET /shop/product_form/ HTTP/1.1" 200 1760
+Internal Server Error: /shop/product_form/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 60, in product_form
+    fs.save(image.name, image)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 37, in save
+    name = self.get_available_name(name, max_length=max_length)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\base.py", line 77, in get_available_name
+    while self.exists(name) or (max_length and len(name) > max_length):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 165, in exists
+    return os.path.lexists(self.path(name))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 179, in path
+    return safe_join(self.location, name)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\files\storage\filesystem.py", line 47, in location
+    return os.path.abspath(self.base_location)
+  File "C:\Users\Karina\anaconda3\lib\ntpath.py", line 527, in abspath
+    return normpath(_getfullpathname(path))
+TypeError: _getfullpathname: path should be string, bytes or os.PathLike, not list
+"POST /shop/product_form/ HTTP/1.1" 500 100625
+E:\University\django\project_01\homework\homework\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 303
+"GET /shop/product_form/ HTTP/1.1" 200 1395
+"POST /shop/product_form/ HTTP/1.1" 200 1467
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 828
+"GET /shop/ HTTP/1.1" 200 664
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/ HTTP/1.1" 200 664
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/clients/ HTTP/1.1" 200 2616
+"GET /shop/ HTTP/1.1" 200 664
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/clients/ HTTP/1.1" 200 2616
+"GET /shop/ HTTP/1.1" 200 664
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/product_form/ HTTP/1.1" 200 1920
+"GET /shop/clients/ HTTP/1.1" 200 2616
+"GET /shop/ HTTP/1.1" 200 664
+"GET /shop/ HTTP/1.1" 200 664
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/ HTTP/1.1" 200 664
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/clients/ HTTP/1.1" 200 2616
+"GET /shop/ HTTP/1.1" 200 664
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/product_form/ HTTP/1.1" 200 1920
+"GET /shop/clients/ HTTP/1.1" 200 2616
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 828
+"GET /shop/ HTTP/1.1" 200 824
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/product_form/ HTTP/1.1" 200 1920
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/ HTTP/1.1" 200 824
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/product_form/ HTTP/1.1" 200 1920
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/ HTTP/1.1" 200 824
+"GET /about/ HTTP/1.1" 200 823
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/product_form/ HTTP/1.1" 200 1920
+"GET /shop/clients/ HTTP/1.1" 200 2776
+"GET /shop/clients/ HTTP/1.1" 200 2776
+Internal Server Error: /shop/clients/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 41, in clients
+    return render(request, 'shopapp/clients.html', {'clients': clients})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'client_order' with no arguments not found. 1 pattern(s) tried: ['shop/orders/(?P<id>[0-9]+)/(?P<period>[^/]+)/\\Z']
+"GET /shop/clients/ HTTP/1.1" 500 159026
+Internal Server Error: /shop/clients/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 41, in clients
+    return render(request, 'shopapp/clients.html', {'clients': clients})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'client_order' with no arguments not found. 1 pattern(s) tried: ['shop/orders/(?P<id>[0-9]+)/(?P<period>[^/]+)/\\Z']
+"GET /shop/clients/ HTTP/1.1" 500 159026
+Internal Server Error: /shop/clients/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 41, in clients
+    return render(request, 'shopapp/clients.html', {'clients': clients})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'client_order' with no arguments not found. 1 pattern(s) tried: ['shop/orders/(?P<id>[0-9]+)/(?P<period>[^/]+)/\\Z']
+"GET /shop/clients/ HTTP/1.1" 500 159026
+Internal Server Error: /shop/clients/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 41, in clients
+    return render(request, 'shopapp/clients.html', {'clients': clients})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'client_order' with no arguments not found. 1 pattern(s) tried: ['shop/orders/(?P<id>[0-9]+)/(?P<period>[^/]+)/\\Z']
+"GET /shop/clients/ HTTP/1.1" 500 159026
+Internal Server Error: /shop/clients/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 41, in clients
+    return render(request, 'shopapp/clients.html', {'clients': clients})
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'client_order' with no arguments not found. 1 pattern(s) tried: ['shop/orders/(?P<id>[0-9]+)/(?P<period>[^/]+)/\\Z']
+"GET /shop/clients/ HTTP/1.1" 500 159026
+"GET /shop/clients/ HTTP/1.1" 200 2790
+"GET /shop/orders/ HTTP/1.1" 200 49
+"GET /shop/product_form/ HTTP/1.1" 200 1934
+"GET /shop/clients/ HTTP/1.1" 200 2790
+"GET /about/ HTTP/1.1" 200 837
+"GET /shop/ HTTP/1.1" 200 838
+"GET /shop/orders/ HTTP/1.1" 200 49
+"GET /shop/ HTTP/1.1" 200 838
+Internal Server Error: /shop/
+Traceback (most recent call last):
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\University\django\project_01\homework\shopapp\views.py", line 45, in index
+    return render(request, "shopapp/index.html")
+  File "E:\University\django\project_01\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\University\django\project_01\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'client_order' with no arguments not found. 1 pattern(s) tried: ['shop/orders/(?P<id>[0-9]+)/(?P<period>[^/]+)/\\Z']
+"GET /shop/ HTTP/1.1" 500 146161
+"POST /shop/product_form/ HTTP/1.1" 200 1988
+"GET /shop/product_form/ HTTP/1.1" 200 1917
+"GET /shop/orders/ HTTP/1.1" 200 49
+"GET /shop/ HTTP/1.1" 200 821
+"GET /about/ HTTP/1.1" 200 820
+"GET /shop/clients/ HTTP/1.1" 200 2773
+"GET /shop/product_form/ HTTP/1.1" 200 1917
+"GET /shop/product_form/ HTTP/1.1" 200 1917
+"GET /shop/clients/ HTTP/1.1" 200 2773
+"GET /about/ HTTP/1.1" 200 820
+"GET /shop/ HTTP/1.1" 200 821

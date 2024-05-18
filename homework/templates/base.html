@@ -4,13 +4,30 @@
 <head>
     <meta charset="UTF-8">
     <title>{% block title %}Мой сайт{% endblock %}</title>
-    <link rel="stylesheet" type="text/css" href="{% static '/css/styles.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
 </head>
+
 <body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="{% url 'index' %}">Главная</a></li>
+                <li><a href="{% url 'about' %}">О нас</a></li>
+                <li><a href="{% url 'clients' %}">Клиенты</a></li>
+                <li><a href="{% url 'product_form' %}">Добавить продукт</a></li>
+                <li><a href="{% url 'orders' %}">Заказы</a></li>
+            </ul>
+        </nav>
+    </header>
+
     <main>
         {% block content %}
 
         {% endblock %}
     </main>
+
+    <footer>
+        <p>© 2024 Магазин Нади Вани</p>
+    </footer>
 </body>
 </html>
