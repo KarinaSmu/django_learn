@@ -5372,3 +5372,235 @@ django.urls.exceptions.NoReverseMatch: Reverse for 'client_order' with no argume
 "GET /shop/clients/ HTTP/1.1" 200 2773
 "GET /about/ HTTP/1.1" 200 820
 "GET /shop/ HTTP/1.1" 200 821
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 825
+"GET /static/css/styles.css HTTP/1.1" 200 573
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2778
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18559
+"GET /static/admin/css/base.css HTTP/1.1" 200 21310
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 825
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7895
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /admin/shopapp/client/ HTTP/1.1" 200 15681
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/shopapp/orderitem/ HTTP/1.1" 200 29117
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/order/ HTTP/1.1" 200 17711
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/ HTTP/1.1" 200 37082
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/client/ HTTP/1.1" 200 15681
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 12781
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/auth/user/add/ HTTP/1.1" 200 12464
+"GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11921
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"POST /admin/auth/user/add/ HTTP/1.1" 200 12920
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 200 12710
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 200 12837
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 200 12685
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 302 0
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 24461
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+"GET /admin/auth/group/ HTTP/1.1" 200 9117
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/add/ HTTP/1.1" 200 13850
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2778
+"POST /admin/auth/group/add/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 10584
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 13467
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 24202
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 13688
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/add/ HTTP/1.1" 200 13850
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/group/add/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 10792
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/2/change/ HTTP/1.1" 200 14067
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/group/2/change/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 10794
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/add/ HTTP/1.1" 200 12464
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/add/ HTTP/1.1" 302 0
+"GET /admin/auth/user/3/change/ HTTP/1.1" 200 24559
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 14145
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/group/ HTTP/1.1" 200 10580
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/ HTTP/1.1" 200 13920
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 24251
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 14145
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 825
+"GET /static/css/styles.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2778
+"GET /admin/ HTTP/1.1" 200 10297
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/shopapp/client/ HTTP/1.1" 200 15681
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/shopapp/product/ HTTP/1.1" 200 37082
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?o=3 HTTP/1.1" 200 38768
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /admin/shopapp/order/ HTTP/1.1" 200 17711
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/order/?o=3 HTTP/1.1" 200 18537
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/order/?o=-3 HTTP/1.1" 200 18560
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/order/?o=3 HTTP/1.1" 200 18537
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/order/?o=-3 HTTP/1.1" 200 18560
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/ HTTP/1.1" 200 37082
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?o=2 HTTP/1.1" 200 38768
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?o=-2 HTTP/1.1" 200 38825
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?o=3.-2 HTTP/1.1" 200 39419
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?o=-3.-2 HTTP/1.1" 200 39478
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?o=3.-2 HTTP/1.1" 200 39419
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+E:\University\django\project_01\homework\shopapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 825
+"GET /admin/ HTTP/1.1" 200 10297
+"GET /admin/shopapp/product/ HTTP/1.1" 200 42983
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+E:\University\django\project_01\homework\shopapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 825
+"GET /admin/ HTTP/1.1" 200 10297
+"GET /admin/ HTTP/1.1" 200 10297
+"GET /admin/shopapp/product/ HTTP/1.1" 200 42983
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?q=table HTTP/1.1" 200 18097
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/?q= HTTP/1.1" 200 44990
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/50/change/?_changelist_filters=q%3D HTTP/1.1" 200 12833
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /admin/shopapp/product/?q= HTTP/1.1" 200 44990
+"GET /admin/shopapp/product/50/change/?_changelist_filters=q%3D HTTP/1.1" 200 12833
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"POST /admin/shopapp/product/50/change/?_changelist_filters=q%3D HTTP/1.1" 302 0
+"GET /admin/shopapp/product/ HTTP/1.1" 200 43225
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"POST /admin/shopapp/product/ HTTP/1.1" 302 0
+"GET /admin/shopapp/product/ HTTP/1.1" 200 42978
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 825
+"GET /admin/ HTTP/1.1" 200 10617
+"GET /admin/ HTTP/1.1" 200 10617
+"GET /admin/shopapp/product/ HTTP/1.1" 200 42978
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/shopapp/product/52/change/ HTTP/1.1" 200 12700
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+E:\University\django\project_01\homework\shopapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+E:\University\django\project_01\homework\shopapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/shopapp/product/52/change/ HTTP/1.1" 200 13262
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+E:\University\django\project_01\homework\shopapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
