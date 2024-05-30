@@ -5604,3 +5604,33 @@ Watching for file changes with StatReloader
 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
 E:\University\django\project_01\homework\shopapp\admin.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 14204
+"GET /static/css/styles.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 16630
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 14601
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4742
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 16259
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 16259
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 14203
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 16259
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 16259
+"GET / HTTP/1.1" 200 14203
+"GET /static/css/styles.css HTTP/1.1" 200 573
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 16630
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 14601
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4742
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 16259

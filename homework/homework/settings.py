@@ -9,6 +9,7 @@ https://docs.djangoproject.com/en/4.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -19,17 +20,22 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-h5&hl6@umg)$@p-uz8-kxd&dg%5ih0#hdwg2y6%*#jn5$_-w%0"
+SECRET_KEY = os.getenv('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
 
 ALLOWED_HOSTS = [
     '192.168.0.55',
-    '127.0.0.1'
+    '127.0.0.1',
+    'KarinaSmu.pythonanywhere.com',
 ]
 
-
+INTERNAL_IPS = [
+    '127.0.0.1',
+]
 # Application definition
 
 INSTALLED_APPS = [
@@ -41,9 +47,11 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "myapp",
     "shopapp",
+    "debug_toolbar",
 ]
 
 MIDDLEWARE = [
+    "debug_toolbar.middleware.DebugToolbarMiddleware",
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -78,9 +86,16 @@ WSGI_APPLICATION = "homework.wsgi.application"
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'KarinaSmu$default',
+        'USER': 'KarinaSmu',
+        'PASSWORD': os.getenv('MYSQL_PASSWORD'),
+        'HOST': 'KarinaSmu.mysql.pythonanywhere-services.com',
+        'OPTIONS': {
+            'init_command': "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
+            'charset': 'utf8mb4',
+        },
     }
 }
 
@@ -120,9 +135,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [
-   BASE_DIR / 'static',
-]
+STATIC_ROOT = BASE_DIR / 'static/'
+# STATICFILES_DIRS = [
+#    BASE_DIR / 'static',
+# ]
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
